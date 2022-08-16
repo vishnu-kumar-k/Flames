@@ -1,0 +1,49 @@
+h1{
+  color: rgb(255, 4, 4);
+  padding: 17px;
+  text-align: center;
+  
+}
+.App{
+  text-align: center;
+  padding: 20px 0px;
+  background-color: rgb(254, 252, 252);
+  border-radius:15px;
+  color: rgb(254, 63, 4);
+  font-size: 25px;
+  
+}
+.forms{
+  text-align: center;
+}
+.full{
+  background-color: rgb(225, 238, 244);
+}
+.forms p{
+  color: rgb(251, 11, 11);
+  font-size: x-large;
+ 
+  font-weight: 500;
+  text-align: center;
+
+}
+.home h1{
+  color: blue;
+  text-decoration: underline;
+  font-size: 30px   ;
+}
+.home h3{
+  color: rgb(122, 15, 12);
+  text-align: center;
+
+}
+.home{
+  background-color: #95acb3;
+}
+.menu h1{
+  color: rgb(255, 0, 0);
+    padding: 17px;
+    text-align: center;
+    background-color: rgb(186, 187, 184);
+
+}

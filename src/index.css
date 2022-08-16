@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Bungee+Inline');
+body {
+  margin: 0;
+  font-family: 'Bungee Inline', cursive;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
