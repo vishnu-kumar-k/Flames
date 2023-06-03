@@ -21,7 +21,7 @@ function App() {
     event.preventDefault();
     var r1 = f_name.toLowerCase();
     var r2 = s_name.toLowerCase();
-    r1 = r1.replace(/\s+/g, '');ffguiuipy
+    r1 = r1.replace(/\s+/g, '');
     r2 = r2.replace(/\s+/g, '');
     var count = 0;
     var len1 = r1.length;
